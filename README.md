@@ -72,7 +72,7 @@ Contoh File View:
         Menampilkan detail mahasiswa berdasarkan ID.
 
         Kode:
-        ![7](https://github.com/user-attachments/assets/99f8f5d9-8c3d-4d03-911f-2c62ca7dad6a)
+        ![7](https://github.com/user-attachments/assets/ebfaacc5-7861-4487-8856-9ead107016ff)
 
 
                    
