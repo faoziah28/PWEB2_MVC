@@ -9,8 +9,9 @@ Model bertugas sebagai "penjaga data." Semua proses pengambilan atau penyimpanan
 Contoh Kelas Model:
     1. MahasiswaModel:
 
-        Fungsi getAllMahasiswa(): Mengambil semua data mahasiswa dari tabel mahasiswa.
-        Fungsi getMahasiswaById($id): Mengambil data mahasiswa berdasarkan ID tertentu.
+    Fungsi getAllMahasiswa(): Mengambil semua data mahasiswa dari tabel mahasiswa.
+    Fungsi getMahasiswaById($id): Mengambil data mahasiswa berdasarkan ID tertentu.
+    
                Kode :    class MahasiswaModel {
                             private $koneksi;
 
