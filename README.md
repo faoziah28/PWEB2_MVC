@@ -93,3 +93,9 @@ Fungsi index(): Mengambil semua data program studi dan mengirimkan ke View.
 Kode:
 ![10](https://github.com/user-attachments/assets/e883e033-0f8b-4fbc-b43b-0b6e545a5e8e)
 
+
+ProgramStudiController:
+
+Fungsi index(): Mengambil semua data program studi dan mengirimkan ke View.
+Kode:
+![11](https://github.com/user-attachments/assets/1c976ecb-1220-4bc8-8f13-8489f2155741)
