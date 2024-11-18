@@ -75,4 +75,12 @@ Contoh File View:
         ![7](https://github.com/user-attachments/assets/ebfaacc5-7861-4487-8856-9ead107016ff)
 
 
+3. Controller (Menghubungkan Model dan View)
+Controller bertugas mengatur logika aplikasi. Dia bertindak sebagai perantara antara Model dan View.
+
+Contoh Kelas Controller:
+MahasiswaController:
+
+Fungsi index(): Mengambil semua data mahasiswa dari Model dan mengirimkannya ke View.
+Fungsi show($id): Mengambil data mahasiswa tertentu berdasarkan ID dan menampilkan detailnya.
                    
