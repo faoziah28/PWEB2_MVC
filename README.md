@@ -65,12 +65,14 @@ Contoh File View:
      Menampilkan daftar mahasiswa yang diambil dari MahasiswaModel.
 
     Kode:  
-    ![7](https://github.com/user-attachments/assets/4cf7027b-644f-4e76-8195-4f2f50417d99)
+   ![8](https://github.com/user-attachments/assets/7539aa87-dc28-4b7f-b2ae-1b0730a898c2)
 
 
-  mahasiswa_detail_view.php:
-    Menampilkan detail mahasiswa berdasarkan ID.
+    b. detail_mahasiswa_view
+        Menampilkan detail mahasiswa berdasarkan ID.
 
-    Kode:
+        Kode:
+        ![7](https://github.com/user-attachments/assets/99f8f5d9-8c3d-4d03-911f-2c62ca7dad6a)
+
 
                    
