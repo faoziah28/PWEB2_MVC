@@ -86,4 +86,10 @@ Fungsi show($id): Mengambil data mahasiswa tertentu berdasarkan ID dan menampilk
 kode:
 ![8](https://github.com/user-attachments/assets/d3238d53-b2f7-42a0-bb51-9b55b5c24e68)
 
-                   
+
+ ProgramStudiController:
+
+Fungsi index(): Mengambil semua data program studi dan mengirimkan ke View.
+Kode:
+![10](https://github.com/user-attachments/assets/e883e033-0f8b-4fbc-b43b-0b6e545a5e8e)
+
