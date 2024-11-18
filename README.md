@@ -82,5 +82,8 @@ Contoh Kelas Controller:
 MahasiswaController:
 
 Fungsi index(): Mengambil semua data mahasiswa dari Model dan mengirimkannya ke View.
-Fungsi show($id): Mengambil data mahasiswa tertentu berdasarkan ID dan menampilkan detailnya.
+Fungsi show($id): Mengambil data mahasiswa tertentu berdasarkan ID dan menampilkan detailnya
+kode:
+![8](https://github.com/user-attachments/assets/d3238d53-b2f7-42a0-bb51-9b55b5c24e68)
+
                    
