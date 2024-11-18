@@ -99,3 +99,12 @@ ProgramStudiController:
 Fungsi index(): Mengambil semua data program studi dan mengirimkan ke View.
 Kode:
 ![11](https://github.com/user-attachments/assets/1c976ecb-1220-4bc8-8f13-8489f2155741)
+
+
+4. Integrasi
+Semua komponen digabungkan agar aplikasi bekerja dengan baik. Contohnya:
+Ketika Prodi diklik, Controller akan memanggil fungsi untuk menampilkan detail mahasiswa melalui View.
+![12](https://github.com/user-attachments/assets/7d2b1743-79c0-4b53-99de-6b1c6b28d1dd)
+![13](https://github.com/user-attachments/assets/127bd30c-dd29-4b2c-b6ce-b628aac5c358)
+
+
