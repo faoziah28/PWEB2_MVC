@@ -61,10 +61,15 @@ Contoh Kelas Model:
 View bertugas menampilkan data kepada pengguna dalam format yang bisa dilihat, misalnya dalam bentuk halaman web.
 
 Contoh File View:
-mahasiswa_view.php:
-Menampilkan daftar mahasiswa yang diambil dari MahasiswaModel.
+   a. mahasiswa_view.php:
+     Menampilkan daftar mahasiswa yang diambil dari MahasiswaModel.
 
-Kode:   ![7](https://github.com/user-attachments/assets/4cf7027b-644f-4e76-8195-4f2f50417d99)
-  
+    Kode:   ![7](https://github.com/user-attachments/assets/4cf7027b-644f-4e76-8195-4f2f50417d99)
+
+
+  mahasiswa_detail_view.php:
+    Menampilkan detail mahasiswa berdasarkan ID.
+
+    Kode:
 
                    
